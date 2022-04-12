@@ -1,0 +1,1 @@
+python "C:\Users\user\Downloads\roblox-account-generator-main\roblox-account-generator-main\roblox_bot_tool.py"
